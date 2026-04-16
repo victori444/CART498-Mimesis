@@ -9,7 +9,6 @@ Mimesis is a generative audiovisual installation in which an AI agent imagines a
 ## Table of Contents
 
 - [Concept](#concept)
-- [System Architecture](#system-architecture)
 - [Technology Stack](#technology-stack)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -21,7 +20,6 @@ Mimesis is a generative audiovisual installation in which an AI agent imagines a
 - [Known Limitations](#known-limitations)
 - [Future Work](#future-work)
 - [Acknowledgements](#acknowledgements)
-- [References](#references)
 
 ---
 
@@ -37,12 +35,6 @@ Three core questions drive the research:
 2. How does a system construct its own notion of a "body" when it engages with philosophical texts instead of human input?
 3. Is it possible for a machine to meaningfully simulate biological death, or does its underlying software ultimately prevent it from truly "dying"?
 
----
-
-## System Architecture'
-
-
----
 
 ## Technology Stack
 
